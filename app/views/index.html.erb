@@ -1,0 +1,11 @@
+<h2> Entries <a href="/artists/new">(+)</a></h2>
+
+<ul>
+  <% @entries.each do |entries| %>
+    <li>
+      <a href="/entries/<%= entry.id %>">
+        <%= entry.name %>
+      </a>
+    </li>
+  <% end %>
+</ul>

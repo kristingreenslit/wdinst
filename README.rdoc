@@ -1,0 +1,11 @@
+== README
+
+> As a blogger, I want to post a story to my blog so that I can create content for others to read.
+
+> As a blogger, I want to remove a posted story to my blog if others do not like the post.
+
+> As a blogger, I want to edit a post if there is an error.
+
+> As a blogger, I want to include pictures with a post to enhance the story.
+
+> As a blogger, I want a time stamp included with my post so that readers are assured that the content is fresh.
